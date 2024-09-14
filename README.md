@@ -87,10 +87,12 @@
 
 
 ## Github Stats  
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parish-Gawari&show_icons=true&count_private=true&hide_border=true" style="width: 45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parish-Gawari&hide_border=true&layout=compact" style="width: 45%" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Parish-Gawari&show_icons=true&count_private=true&hide_border=true" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parish-Gawari&hide_border=true&layout=compact" style="height: 200px;" />
 </div>
+
+
 
 
 
