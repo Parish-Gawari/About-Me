@@ -6,7 +6,7 @@
 
 
 ### About Me  
-### <div align="center">I'm Parish, Full Stack web developer 👨‍💻 working at HeyCoach since Dec 2023 🚀</div>  
+### <div align="center">I'm Parish Gawari, Full Stack web developer 👨‍💻 working at HeyCoach since Dec 2023 🚀</div>  
   
 
 - 🔭 I’m currently working on React , Node and SQL  
