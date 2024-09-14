@@ -1,11 +1,4 @@
-<div align="center">
-<img src="https://github.com/Parish-Gawari/Portfolio/blob/main/src/assets/hero.png?raw=true" align="center" style="width: 40%" />
-</div>  
-  
-
-
-
-### About Me  
+ 
 ### <div align="center">I'm Parish Gawari, Full Stack web developer 👨‍💻 working at HeyCoach since Dec 2023 🚀</div>  
   
 
